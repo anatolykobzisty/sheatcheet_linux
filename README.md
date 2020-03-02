@@ -308,6 +308,6 @@
 | sudo yum remove program      | удалить программу                  | RedHat/Fedora/CenOS     |
 | sudo rpm –i program.rpm      | установить программу из файла .rpm | RedHat/Fedora/CenOS     |
 | sudo rpm –e program          | удалить программу                  | RedHat/Fedora/CenOS     |
-| whereis program              | показать где установлена прорамма  | Linux                   |
+| whereis program              | показать где установлена программа | Linux                   |
 
 [назад](#Cheatsheet-Linux)
